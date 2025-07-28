@@ -8,4 +8,4 @@ This project demonstrates **Shamir’s Secret Sharing Algorithm**, used to secur
 * Reconstructs the secret using **Lagrange interpolation**.
 * Output = Original secret.
 **  I HAVE DONE IN PYHTON.**
-Here is the link: https://colab.research.google.com/drive/1HmvO9eFWZhfEm3eHJh7OoUORHXcmlLz6?usp=sharing
+Here is the link: [https://colab.research.google.com/drive/1HmvO9eFWZhfEm3eHJh7OoUORHXcmlLz6?usp=sharing](https://colab.research.google.com/drive/1HmvO9eFWZhfEm3eHJh7OoUORHXcmlLz6?usp=sharing)
